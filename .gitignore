@@ -1,9 +1,15 @@
 # Adding config.py file.
 config.py
 
+# Adding challenge config.py
+Weather_Database/config_challenge.py
+Vacation_Itinerary/itinerary_config.py
+Vacation_Search/vacation_config.py
+
 # Adding additional files.
 API_practice.ipynb
 random_numbers.ipynb
+Google_Nearby_Search.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
